@@ -57,8 +57,8 @@
   --vp-button-alt-active-bg: var(--nord9);
   --vp-button-alt-active-text: var(--nord6);
 
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(-64deg, var(--nord7), var(--nord8), var(--nord9), var(--nord10));
+  --vp-home-hero-name-color: var(--nord9);
+  --vp-home-hero-name-background: none;
   --vp-home-hero-image-background-image: linear-gradient(-45deg, rgba(143, 188, 187, 0.6) 0%, rgba(236, 239, 244, 0.5) 50%, rgba(129, 161, 193, 0.6) 100%);
   --vp-home-hero-image-filter: blur(44px);
 

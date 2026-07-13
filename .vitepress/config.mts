@@ -6,19 +6,8 @@ export default defineConfig({
   lang: 'zh-Hans',
   title: 'Club Website',
   description: '一个高自定义的社团官网',
-  head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]
-  ],
   themeConfig: {
-    logo: '/logo.svg',
     nav: [
-      {
-        text: '社团动态',
-        items: [
-          { text: '社团新闻', link: '/news/', activeMatch: '/news' },
-          { text: '社团活动', link: '/activities/', activeMatch: '/activities' },
-        ]
-      },
       {
         text: '关于我们',
         items: [
@@ -29,7 +18,7 @@ export default defineConfig({
     ],
     sidebar,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/anvil' }
     ],
     footer: {
       message: '本站点基于 MIT License 发布',
