@@ -18,7 +18,7 @@ export default defineConfig({
     ],
     sidebar,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/anvil' }
+      { icon: 'github', link: 'https://github.com/py-anvil' }
     ],
     footer: {
       message: '本站点基于 MIT License 发布',

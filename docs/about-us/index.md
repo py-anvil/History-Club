@@ -30,7 +30,7 @@
 ## 联系方式
 
 - **社交媒体**: 
-  - [GitHub](https://github.com/anvil)
+  - [GitHub](https://github.com/py-anvil)
   - [Lirzh 的 Blog](https://www.lirzh.top)
 
 ---
