@@ -9,10 +9,7 @@ hero:
     - theme: brand
       text: 了解社团
       link: /about-us/
-    - theme: alt
-      text: 最新动态
-      link: /news/
-    - theme: alt
-      text: 精彩活动
-      link: /activities/
+    - theme: brand
+      text: 加入我们
+      link: /join-us/
 ---
