@@ -1,9 +1,9 @@
 export default [
   {
-    text: '关于我们',
+    text: '了解社团',
     collapsed: true,
     items: [
-      { text: '了解社团', link: '/about-us/' },
+      { text: '关于我们', link: '/about-us/' },
       { text: '加入我们', link: '/join-us/' },
     ]
   }

@@ -9,9 +9,9 @@ export default defineConfig({
   themeConfig: {
     nav: [
       {
-        text: '关于我们',
+        text: '了解社团',
         items: [
-          { text: '了解社团', link: '/about-us/', activeMatch: '/about-us' },
+          { text: '关于我们', link: '/about-us/', activeMatch: '/about-us' },
           { text: '加入我们', link: '/join-us/', activeMatch: '/join-us' },
         ]
       }
