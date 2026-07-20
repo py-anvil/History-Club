@@ -6,7 +6,7 @@ hero:
   text: "福建省莆田第一中学"
   tagline: "历史即鉴"
   image:
-    src: /image.png
+    src: image.png
     alt: 湄轩历史社
   actions:
     - theme: brand
