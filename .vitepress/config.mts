@@ -4,8 +4,8 @@ import sidebar from './sidebar'
 export default defineConfig({
   srcDir: 'docs',
   lang: 'zh-Hans',
-  title: 'Club Website',
-  description: '一个高自定义的社团官网',
+  title: '湄轩历史社',  
+  description: '福建省莆田第一中学的历史社',
   themeConfig: {
     nav: [
       {
