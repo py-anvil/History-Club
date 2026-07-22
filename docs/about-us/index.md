@@ -19,41 +19,15 @@
 
 ## 团队成员
 
-<table>
-  <thead>
-    <tr>
-      <th>职位</th>
-      <th colspan="2">姓名</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>社长</td>
-      <td colspan="2">musiccccccc～！</td>
-    </tr>
-    <tr>
-      <td>副社长</td>
-      <td>饼</td>
-      <td>茜小果</td>
-    </tr>
-    <tr>
-      <td>人事部部长</td>
-      <td colspan="2">345</td>
-    </tr>
-    <tr>
-      <td>娱乐部部长</td>
-      <td colspan="2">待添加</td>
-    </tr>
-    <tr>
-      <td>财政部部长</td>
-      <td colspan="2">待添加</td>
-    </tr>
-    <tr>
-      <td>校史部部长</td>
-      <td colspan="2">待添加</td>
-    </tr>
-  </tbody>
-</table>
+| 职位 | 姓名 |
+|------|------|
+| 社长 | musiccccccc～！ |
+| 副社长 | 饼 |
+| 副社长 | 茜小果 |
+| 人事部部长 | 345 |
+| 娱乐部部长 | 待添加 |
+| 财政部部长 | 待添加 |
+| 校史部部长 | 待添加 |
 
 ## 联系方式
 
