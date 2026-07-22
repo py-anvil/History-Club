@@ -6,6 +6,7 @@ export default defineConfig({
   lang: 'zh-Hans',
   title: '湄轩历史社',  
   description: '福建省莆田第一中学的历史社',
+  appearance: false,
   themeConfig: {
     nav: [
       {
