@@ -14,6 +14,8 @@ export default {
     }
     onMounted(() => {
       initZoom()
+      // 强制移除 .dark 类，彻底禁用暗色模式
+      document.documentElement.classList.remove('dark')
       // 随机背景：整个页面背景，无毛玻璃（手机端用竖版图片）
       const ts = Date.now()
       const isMobile = window.matchMedia('(max-width: 768px)').matches
